@@ -183,3 +183,7 @@ Jika (a) ditambah (b) hasilnya (c) atau yang bahasa programnya itu or (b) ditamb
 
 Jika tidak sesuai dengan program Output akan Keluar "SALAH"
 
+
+![tiket biskop](https://github.com/user-attachments/assets/8614ec4a-546b-4050-be8a-d087a63a12e4)
+
+
